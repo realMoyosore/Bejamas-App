@@ -1,16 +1,57 @@
-# React + Vite
+# Bejamas App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application built as part of the AltSchool Africa 2nd Semester project.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Modern UI with responsive design
+- Built using React and modern JavaScript
 
-## React Compiler
+## Getting Started
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Prerequisites
 
-## Expanding the ESLint configuration
+- Node.js (v14 or higher)
+- bun or npm or yarn
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+```bash
+git clone https://github.com/your-username/bejamas-app.git
+cd bejamas-app
+bun install
+```
+
+### Running the App
+
+```bash
+bun start
+```
+
+The app will run at [http://localhost:5174](http://localhost:5174).
+
+## Folder Structure
+
+```bash
+bejamas-app/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](LICENSE)
+
+---
+
+*Developed for AltSchool Africa by Moyosore Sulola.*
