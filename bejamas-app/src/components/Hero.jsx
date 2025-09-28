@@ -86,7 +86,7 @@ function Hero() {
                 <button id="add-to-cart-btn">ADD TO CART</button>
               </div>
               <div className="hero-image">
-                <img src="resources/images/hero-image.png" alt="Dog lying down" />
+                <img src="../assets/images/hero-image.png" alt="Dog lying down" />
               </div>
               <div className="hero-text">
                 <div className="hero-description">
@@ -107,9 +107,9 @@ function Hero() {
                 <div className="hero-suggest">
                   <h3 id="suggest-text">People also buy</h3>
                   <div className="suggest-images">
-                    <img src="resources/images/yellow-wall.png" alt="suggestion 1" />
-                    <img src="resources/images/beige-wall.png" alt="suggestion 2" />
-                    <img src="resources/images/off-white-wall.png" alt="suggestion 3" />
+                    <img src="../assets/images/yellow-wall.png" alt="suggestion 1" />
+                    <img src="../assets/images/beige-wall.png" alt="suggestion 2" />
+                    <img src="../assets/images/off-white-wall.png" alt="suggestion 3" />
                   </div>
                   <div className="other-details">
                     <h3 id="details-text">Details</h3>
@@ -203,7 +203,7 @@ function Hero() {
                   <div className="products-img-card">
                     <div className="product-card best-seller">
                       <span className="badge">Best Seller</span>
-                      <img src="resources/images/best-seller.png" alt="Red Bench" />
+                      <img src="../assets/images/best-seller.png" alt="Red Bench" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">People</span>
@@ -212,7 +212,7 @@ function Hero() {
                       </div>
                     </div>
                     <div className="product-card">
-                      <img src="resources/images/off-white-wall.png" alt="Egg Balloon" />
+                      <img src="../assets/images/off-white-wall.png" alt="Egg Balloon" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">Food</span>
@@ -221,7 +221,7 @@ function Hero() {
                       </div>
                     </div>
                     <div className="product-card">
-                      <img src="resources/images/off-white-wall.png" alt="Egg Balloon" />
+                      <img src="../assets/images/off-white-wall.png" alt="Egg Balloon" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">Food</span>
@@ -230,7 +230,7 @@ function Hero() {
                       </div>
                     </div>
                     <div className="product-card">
-                      <img src="resources/images/man-on-water.png" alt="Man" />
+                      <img src="../assets/images/man-on-water.png" alt="Man" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">People</span>
@@ -239,7 +239,7 @@ function Hero() {
                       </div>
                     </div>
                     <div className="product-card">
-                      <img src="resources/images/generic-wall.png" alt="Architecture" />
+                      <img src="../assets/images/generic-wall.png" alt="Architecture" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">Landmarks</span>
@@ -248,7 +248,7 @@ function Hero() {
                       </div>
                     </div>
                     <div className="product-card">
-                      <img src="resources/images/generic-wall.png" alt="Architecture" />
+                      <img src="../assets/images/generic-wall.png" alt="Architecture" />
                       <button className="add-to-cart-btn">ADD TO CART</button>
                       <div className="product-info">
                         <span className="category">Landmarks</span>
