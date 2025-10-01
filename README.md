@@ -54,4 +54,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-*Developed for AltSchool Africa by Moyosore Sulola.*
+*Developed for AltSchool Africa by [Moyosore Sulola](https://www.linkedin.com/in/moyosore-sulola/).*
